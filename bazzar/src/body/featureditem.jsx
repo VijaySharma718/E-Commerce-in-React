@@ -10,13 +10,13 @@ const featureditem = () => {
             <div className='grid sm:grid-cols-3 gap-8 px-10 pt-10'>
 
                 <div>
-                    <img class="sm:h-[500px] sm:w-[450px] rounded-lg border border-red-600" src="/public/banner/images/f2.jpg" alt="" />
+                    <img class="sm:h-[500px] sm:w-[450px] rounded-lg border border-red-600" src="/banner/images/f2.jpg" alt="" />
                 </div>
                 <div>
-                    <img class="sm:h-[500px] sm:w-[450px] rounded-lg border border-red-600" src="/public/banner/images/f6.jpg" alt="" />
+                    <img class="sm:h-[500px] sm:w-[450px] rounded-lg border border-red-600" src="/banner/images/f6.jpg" alt="" />
                 </div>
                 <div>
-                    <img class="sm:h-[500px] sm:w-[450px] rounded-lg border border-red-600" src="/public/banner/images/f5.webp" alt="" />
+                    <img class="sm:h-[500px] sm:w-[450px] rounded-lg border border-red-600" src="/banner/images/f5.webp" alt="" />
                 </div>
             </div>
 
