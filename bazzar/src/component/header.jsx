@@ -26,12 +26,10 @@ const header = () => {
                 </div>
             </form>
             <div className='sm:flex sm:justify-around sm:gap-10 items-center'>
-
-
-                
+    
                 <Login />
                 <Cart />
-
+                
             </div>
         </nav>
     )
